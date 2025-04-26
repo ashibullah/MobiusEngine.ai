@@ -1,5 +1,5 @@
 import React from 'react';
-import bannerImg from '../assets/banner.png';
+
 import bgImg from '../assets/bannerBg.png';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import pdfImg from '../assets/image 1.png';
@@ -27,23 +27,23 @@ const Banner = () => {
 
             </div>
             <div>
-            <div className='relative'>
-                <img className='w-xs ' src={pdfImg} alt="banner" />
-                <div className='backdrop-blur-xs p-5 rounded-full border-2 absolute -bottom-7 -right-6'>
-                    <img  src={bookImg} alt="banner" />
-                </div>
-                <div className='flex justify-center items-center w-6 h-6 text-darkblue bg-white rounded-full 
+                <div className='relative'>
+                    <img className='w-xs ' src={pdfImg} alt="banner" />
+                    <div className='backdrop-blur-xs p-5 rounded-full border-2 absolute -bottom-7 -right-6'>
+                        <img src={bookImg} alt="banner" />
+                    </div>
+                    <div className='flex justify-center items-center w-6 h-6 text-darkblue bg-white rounded-full 
                 absolute -bottom-9 right-10'>
-                   <GoArrowDownLeft />
-                </div>               
-            </div>
-            <div className='pt-5'>
-             <p className='font-light text-center '>Download Free E-Book</p>
-   
-            </div>
-            
+                        <GoArrowDownLeft />
+                    </div>
+                </div>
+                <div className='pt-5'>
+                    <p className='font-light text-center '>Download Free E-Book</p>
 
-        </div>
+                </div>
+
+
+            </div>
         </div>
     );
 };
