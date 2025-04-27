@@ -5,6 +5,7 @@ import WorkSteps from '../components/WorkSteps';
 import AboutUs from '../components/AboutUs';
 import ClientReview from '../components/ClientReview';
 import ChooseUsSection from '../components/ChooseUsSection';
+import ServicePlan from '../components/ServicePlan';
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
             <AboutUs/>
             <ClientReview/>
             <ChooseUsSection/>
+            <ServicePlan/>
         </div>
     );
 };

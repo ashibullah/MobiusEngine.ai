@@ -7,9 +7,9 @@ import icon3 from '../assets/Star 1.png'
 const ChooseUsSection = () => {
     const des1 = `Built by folks with 40+ years in tech and hiring — we know the game, and we’ve got your back.`
     const des2 =`A hands-on team that actually cares — guiding you through every twist in your career path.`
-    const des3 = `We search, shortlist, and apply for you, so your name shows up first — every single day.`
+    const des3 = `We search, shortlist, and apply for you, so your name shows up first — every single day.`
     return (
-        <div className=" px-10 py-18 w-[1100px] mx-auto bg-[#F8FAFF] rounded-4xl">
+        <div className=" px-12 py-18 w-[1100px] mx-auto bg-[#F8FAFF] rounded-4xl">
             <h1 className='text-lightblue font-semibold text-3xl mb-10'>Why Choose Us?</h1>
             <div className='flex justify-between gap-15 '>
                 <Box img = {icon1} des={des1} tittle = {'Tried, Tested, Trusted'}/>
