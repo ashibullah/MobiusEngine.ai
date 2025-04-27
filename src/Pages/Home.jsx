@@ -3,6 +3,7 @@ import Banner from '../components/Banner';
 import WorkStep from '../components/Shared/WorkStep';
 import WorkSteps from '../components/WorkSteps';
 import AboutUs from '../components/AboutUs';
+import ClientReview from '../components/ClientReview';
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Banner/>
             <WorkSteps/>
             <AboutUs/>
+            <ClientReview/>
         </div>
     );
 };

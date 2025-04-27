@@ -21,7 +21,6 @@ const Banner = () => {
                 <div className='text-lg bg-white text-black px-6 py-3 rounded-full flex items-center gap-2  text-darkblue'>
                     <button >Get Started</button>
                     <GoArrowRight />
-
                 </div>
 
 
