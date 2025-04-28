@@ -1,0 +1,32 @@
+[
+    {
+      "planName": "Resume Rebuild",
+      "subtitle" : "Crafted for senior to VP-level professionals ready for their next big step.",
+      "price": "$1000",
+      "duration" : "one time",
+      "features": [
+        "3× 30-min coaching",
+        "Focused on storytelling, not just formatting",
+        "Analyst + full application team on Pacific hours",
+        "Tailored to your target industry, company, or role",
+        "Direct work with our co-founder (ex-Google, JP Morgan)",
+        "Executive coaching from UC Berkeley alum with 10+ years experience",
+        "Resume Rebuild portfolio available upon request"
+      ],
+      "buttonText": "Get Started"
+    },
+    {
+      "planName": "Interview Prep",
+      "subtitle" : "Two sessions to sharpen your story, confidence, and clarity — fast.",
+      "price": "$500",
+      "duration" : "one time",
+      "features": [
+        "2× 45-min live coaching with our co-founder",
+        "Real-time, practical feedback",
+        "Build clarity, empathy & executive presence",
+        "For senior and leadership roles — technical & non-technical"
+      ],
+      "buttonText": "Get Started"
+    }
+  ]
+  

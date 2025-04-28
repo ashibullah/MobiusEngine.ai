@@ -40,6 +40,8 @@ const ServicePlan = () => {
 
             </div>
 
+            <hr className='mt-18 text-gray-400'/>
+
         </div>
     );
 };

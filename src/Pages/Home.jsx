@@ -6,16 +6,18 @@ import AboutUs from '../components/AboutUs';
 import ClientReview from '../components/ClientReview';
 import ChooseUsSection from '../components/ChooseUsSection';
 import ServicePlan from '../components/ServicePlan';
+import ResumeBuilding from '../components/ResumeBuilding';
 
 const Home = () => {
     return (
         <div>
             <Banner/>
             <WorkSteps/>
-            <AboutUs/>
+            <AboutUs/>      
             <ClientReview/>
             <ChooseUsSection/>
             <ServicePlan/>
+            <ResumeBuilding/>
         </div>
     );
 };
