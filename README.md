@@ -1,6 +1,6 @@
 # MobiusEngine.ai — Frontend
 
-A modern, responsive frontend project for **MobiusEngine.ai**, built using **React** and **TailwindCSS**.
+A modern, frontend project for **MobiusEngine.ai**, built using **React** and **TailwindCSS**.
 
 ## 📦 Setup Instructions
 
@@ -12,6 +12,7 @@ npm run dev
 
 - Build for production:  
 npm run build
+
 
 ## 🚀 Tech Stack
 
