@@ -15,7 +15,7 @@ const Videobox = () => {
             </div>
             <div className='py-5 flex justify-end pr-5'>
 
-                <GoArrowUpRight className=' bg-white p-3 text-[#0649E7] rounded-full text-5xl' />
+                <GoArrowUpRight className=' bg-white p-3 text-[#0649E7] hover:text-white hover:bg-[#0649E7] rounded-full text-5xl' />
             </div>
         </div>
     );

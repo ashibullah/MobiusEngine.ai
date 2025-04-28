@@ -1,6 +1,7 @@
 import React from 'react';
 import PackageBox from './Shared/PackageBox';
 import { IoIosCheckmark } from 'react-icons/io';
+import { GoArrowRight } from 'react-icons/go';
 
 const ServicePlan = () => {
     const checkBox = ['Everything in Plus', 'Custom Resumes & Cover Letters', '20 fully customized applications/week', 'Help with complex job searches', 'Access to senior resume experts, Founder & Exec Coaches']
@@ -12,7 +13,7 @@ const ServicePlan = () => {
                 <PackageBox />
             </div>
 
-            <div className='text-white font-[600] p-10 mt-13 w-full  bg-[#0649E7] rounded-4xl '>
+            <div className='relative text-white font-[600] p-10 mt-13 w-full  bg-[#0649E7] rounded-4xl '>
                 <div className='flex justify-between'>
                 <div>
                     <h2 className=' text-[32px]'>Advance</h2>
@@ -35,10 +36,16 @@ const ServicePlan = () => {
                     )
                     )
                 }
-                </div>
-               
+                </div>  
 
+                <div className="absolute bottom-10 right-10">
+                    <button className="text-lg bg-white text-[#022183] hover:bg-[#022183] hover:text-white px-6 py-3 rounded-full flex items-center gap-2 transition-all duration-300">
+                        Get Started
+                        <GoArrowRight />
+                    </button>
+                </div>   
             </div>
+            
 
             <hr className='mt-18 text-gray-400'/>
 

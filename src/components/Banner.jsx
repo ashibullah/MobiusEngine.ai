@@ -18,10 +18,10 @@ const Banner = () => {
             <div className='flex flex-col gap-8 w-[600px] items-start'>
                 <h1 className='text-Sora text-5xl font-bold '>Land job interviews <br /> <span className='text-darkblue'>10x</span> faster</h1>
                 <p className='font-light'>Custom-built resumes that match your goals, keywords, and recruiter expectations.</p>
-                <div className='text-lg bg-white text-black px-6 py-3 rounded-full flex items-center gap-2  text-darkblue'>
-                    <button >Get Started</button>
+                <button className='text-lg bg-white text-[#022183] hover:bg-[#022183] hover:text-white px-6 py-3 rounded-full flex items-center gap-2 '>
+                    Get Started
                     <GoArrowRight />
-                </div>
+                </button>
 
 
             </div>
