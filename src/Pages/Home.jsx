@@ -7,6 +7,7 @@ import ClientReview from '../components/ClientReview';
 import ChooseUsSection from '../components/ChooseUsSection';
 import ServicePlan from '../components/ServicePlan';
 import ResumeBuilding from '../components/ResumeBuilding';
+import ContactUs from '../components/ContactUs';
 
 const Home = () => {
     return (
@@ -18,6 +19,7 @@ const Home = () => {
             <ChooseUsSection/>
             <ServicePlan/>
             <ResumeBuilding/>
+            <ContactUs/>
         </div>
     );
 };
