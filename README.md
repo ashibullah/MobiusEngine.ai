@@ -2,6 +2,17 @@
 
 A modern, responsive frontend project for **MobiusEngine.ai**, built using **React** and **TailwindCSS**.
 
+## 📦 Setup Instructions
+
+- Install dependencies:  
+npm i
+
+- Start the development server:  
+npm run dev
+
+- Build for production:  
+npm run build
+
 ## 🚀 Tech Stack
 
 - React 19
