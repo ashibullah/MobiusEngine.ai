@@ -5,7 +5,7 @@ import packages from '../../assets/packages.json'; // adjust path
 
 const PackageBox = () => {
     return (
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
             {packages.map((pkg, index) => (
                 <div key={index} className= {`text-[#0649E7] ${pkg.badge ?  'bg-[#0649E7]/10' : ''} h-full border-2 rounded-4xl p-8  flex flex-col `}>
                     <div>
