@@ -1,12 +1,17 @@
-# React + Vite
+# MobiusEngine.ai — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive frontend project for **MobiusEngine.ai**, built using **React** and **TailwindCSS**.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React 19
+- TailwindCSS 4
+- Vite
+- React Router DOM 7
+- React Icons
 
-## Expanding the ESLint configuration
+## 🌎 Live Site
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[View Live](https://stellar-tanuki-0ce1a5.netlify.app/)
+
+Hosted on **Netlify**.
