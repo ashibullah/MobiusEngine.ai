@@ -8,8 +8,7 @@ const ServicePlan = () => {
 
             <div className='flex gap-15'>
                 <PackageBox/>
-                <PackageBox/>
-                <PackageBox/>
+               
             </div>
             
         </div>
