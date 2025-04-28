@@ -5,14 +5,13 @@ A modern, frontend project for **MobiusEngine.ai**, built using **React** and **
 ## 📦 Setup Instructions
 
 - Install dependencies:  
-npm i
+  `npm i`
 
 - Start the development server:  
-npm run dev
+  `npm run dev`
 
 - Build for production:  
-npm run build
-
+  `npm run build`
 
 ## 🚀 Tech Stack
 
