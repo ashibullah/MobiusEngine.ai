@@ -5,7 +5,7 @@ import resumePackages from '../../assets/resumePackages.json'; // adjust path if
 
 const ResumeBox = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 px-30 justify-evenly">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-10 px-10 md:px-15 lg:px-40 justify-evenly">
       {resumePackages.map((pkg, index) => (
         <div
           key={index}
