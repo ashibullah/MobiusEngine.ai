@@ -23,7 +23,7 @@ A modern, frontend project for **MobiusEngine.ai**, built using **React** and **
 
 ## 🌎 Live Site
 
-[View Live](https://stellar-tanuki-0ce1a5.netlify.app/)
+[View Live](https://aquamarine-crostata-9ae692.netlify.app/)
 
 Hosted on **Netlify**.
 
