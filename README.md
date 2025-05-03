@@ -26,3 +26,5 @@ A modern, frontend project for **MobiusEngine.ai**, built using **React** and **
 [View Live](https://stellar-tanuki-0ce1a5.netlify.app/)
 
 Hosted on **Netlify**.
+
+[Figma Link](https://stellar-tanuki-0ce1a5.netlify.app/](https://www.figma.com/design/v8jn8HbQdrjXIfQ1Sl47Xa/MobiusEngine.ai-Front-End-Developer-Interview-Design-Spec.?node-id=0-1&p=f&t=Wl5uxpTBENYxumLu-0))
