@@ -4,7 +4,7 @@ import { GoArrowRight } from 'react-icons/go';
 
 const ClientReview = () => {
     return (
-        <div className="px-4 md:px-10 py-18 w-full md:max-  mx-auto">
+        <div className="px-4 md:px-10 py-18 sm:w-full lg:w-[1100px] md:max-  mx-auto">
             <h1 className='text-lightblue text-3xl mb-20 sm:text-center'>
                 What our clients have to say
             </h1>

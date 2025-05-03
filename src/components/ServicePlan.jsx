@@ -6,7 +6,7 @@ import { GoArrowRight } from 'react-icons/go';
 const ServicePlan = () => {
     const checkBox = ['Everything in Plus', 'Custom Resumes & Cover Letters', '20 fully customized applications/week', 'Help with complex job searches', 'Access to senior resume experts, Founder & Exec Coaches']
     return (
-        <div className=" px-10 py-18   mx-auto">
+        <div className=" px-10 py-18  sm:w-full lg:w-[1100px]   mx-auto">
             <h1 className='text-lightblue font-semibold text-3xl mb-20'>What our clients have to say</h1>
 
             <div className='flex gap-15'>
